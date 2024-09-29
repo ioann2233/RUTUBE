@@ -5,3 +5,6 @@ whisper
 streamlit
 keras
 moviepy
+tensorflow
+numpy
+keras
