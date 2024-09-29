@@ -8,3 +8,4 @@ moviepy
 tensorflow
 numpy
 keras
+json
