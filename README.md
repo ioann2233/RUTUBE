@@ -2,6 +2,7 @@
 РЕШЕНИЕ КОМАНДЫ FEATURE_88
 Для запуска нашего кода необходимо сначала создать виртуальное окружение с помощью команд:
 python -m venv myenv
+
 source myenv/bin/activate  # для Linux/Mac
 myenv\Scripts\activate  # для Windows
 
