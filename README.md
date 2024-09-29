@@ -5,6 +5,9 @@ python -m venv myenv
 source myenv/bin/activate  # для Linux/Mac
 myenv\Scripts\activate  # для Windows
 
+После перехода в окружение нужно подкачать наши зависимости: 
+pip install -r requirements.txt
+
 После того как мы перешли в окружение можно запустить проект
 streamlit run app.py
 
